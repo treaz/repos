@@ -1107,7 +1107,6 @@
 - travisbrown/dhallj
 - travisbrown/iteratee
 - travisbrown/iteratee-twitter
-- treaz/scalatraseed
 - twilio/guardrail
 - twilio/sbt-guardrail
 - twitter/algebird
